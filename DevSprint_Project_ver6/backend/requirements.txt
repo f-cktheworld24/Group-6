@@ -1,0 +1,5 @@
+fastapi~=0.122.0
+SQLAlchemy~=2.0.44
+pydantic~=2.12.4
+apscheduler~=3.10.4
+PyMySQL~=1.1.0
